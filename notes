@@ -1,3 +1,5 @@
 Layers:
 	
 	Dense layer - Each node of current layer is fully connected to every node of previous and next layer.
+
+Learning rate: Step size to update weights during tuning/gradient descent
