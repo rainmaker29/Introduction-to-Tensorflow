@@ -1,0 +1,3 @@
+Layers:
+	
+	Dense layer - Each node of current layer is fully connected to every node of previous and next layer.
