@@ -1,5 +1,17 @@
 Layers:
 	
 	Dense layer - Each node of current layer is fully connected to every node of previous and next layer.
+	Flatten layer - A layer in which a 2D image is converted into a vector whose each value is a node of this layer
 
 Learning rate: Step size to update weights during tuning/gradient descent
+
+ReLu :  An Activation function
+	
+ReLu o/p : -ve : 0 ; +ve : +ve value
+
+ReLu is used so that neural networks can solve non linear problems too
+
+If NN is used for classification, it usually ends up with softmax being the activation function of the last dense layer
+	
+
+
