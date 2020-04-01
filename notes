@@ -16,6 +16,8 @@ If NN is used for classification, it usually ends up with softmax being the acti
 Another activation function for last layer in classification is Sigmoid,whose loss function must be binary_crossentropy
 
 Check out loss functions
+
+Image Augumentation : rotate,zoom etc operations on image to increase variance in training data
 	
 
 
