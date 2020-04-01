@@ -12,6 +12,10 @@ ReLu o/p : -ve : 0 ; +ve : +ve value
 ReLu is used so that neural networks can solve non linear problems too
 
 If NN is used for classification, it usually ends up with softmax being the activation function of the last dense layer
+
+Another activation function for last layer in classification is Sigmoid,whose loss function must be binary_crossentropy
+
+Check out loss functions
 	
 
 
