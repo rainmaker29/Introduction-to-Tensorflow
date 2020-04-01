@@ -18,6 +18,9 @@ Another activation function for last layer in classification is Sigmoid,whose lo
 Check out loss functions
 
 Image Augumentation : rotate,zoom etc operations on image to increase variance in training data
-	
+
+
+Dropout : turns off few neurons randomly so that every neuron contributes to prediction hence proper distribution of weights,lesser chances of
+overfitting
 
 
